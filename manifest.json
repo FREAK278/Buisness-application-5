@@ -1,0 +1,11 @@
+{
+  "name": "Payment Calculator",
+  "short_name": "Payments",
+  "description": "Offline payment calculator for two companies",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f5",
+  "theme_color": "#153e35",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
